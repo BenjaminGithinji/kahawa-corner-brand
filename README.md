@@ -29,10 +29,10 @@ Logo design, color palette, and typography choices.
 **Typography:** a bold serif for the badge text, paired with a clean sans-serif for supporting copy.
 
 ## Tools used
-[List only the tools you actually used, e.g. Figma, Canva, Illustrator.]
+Canva
 
-## What I learned / what I'd improve
-[One or two honest sentences.]
+## what I'd improve
+I need to improve my speed in designing for effective efficiency
 
 ## Contact
 Want a logo like this for your business? Email me at benjaminrover294@gmail.com
